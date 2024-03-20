@@ -1,0 +1,8 @@
+[submodule "UBOS-template-Speech-To-Text-ui"]
+	path = UBOS-template-Speech-To-Text-ui
+	url = https://github.com/UBOS-Asset-Store/UBOS-template-Speech-To-Text-ui.git
+	branch = main
+[submodule "UBOS-template-Speech-To-Text-nr"]
+	path = UBOS-template-Speech-To-Text-nr
+	url = https://github.com/UBOS-Asset-Store/UBOS-template-Speech-To-Text-nr.git
+	branch = master
