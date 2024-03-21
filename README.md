@@ -16,7 +16,7 @@
 
 <div align="center">
   
-  [![Use template](https://ubos.tech/wp-content/uploads/2023/06/download-logo.png)](https://platform.ubos.tech/)
+  [![Use template](https://ubos.tech/wp-content/uploads/2023/06/download-logo.png)](https://platform.ubos.tech/?templateId=65fb0a9cedcd1b001134d4fd)
   
 </div>
     <h1>Speech To Text</h1>
