@@ -23,13 +23,13 @@
 
   <p>The Speech to Text template is a powerful tool that leverages advanced speech recognition and natural language processing capabilities to generate accurate textual transcriptions from uploaded audio or video files. This template provides a seamless experience for users, enabling them to effortlessly extract meaningful information from audio-visual content.</p>
 
-  <h2>Node-RED Flow for Image Description using Claude AI</h2>
+  <h2>Node-RED Flows</h2>
 
   <p>
     <img width="860" alt="Знімок екрана 2024-03-20 о 15 50 59" src="https://github.com/UBOS-tech/UBOS-template-Speech-To-Text/assets/76822866/efd24a9a-792c-4a9e-a5ff-b41081a5f949">
   </p>
 
-  <p>This is a Node-RED flow that allows users to send an image and receive a textual description of the image's contents using the Claude AI model from Anthropic. Here's a breakdown of the flow's components:</p>
+  <p>This is a Node-RED flow that allows users to describe video/audio to text, and using your custom prompt make a conclusion of the received text.</p>
   
   <ul>
     <li><strong>HTTP Input Node (`/convertSpeech`):</strong> This node listens for incoming HTTP POST requests at the `/convertSpeech` endpoint. It expects the request to include an audio file or a YouTube video URL, along with an OpenAI API key.</li>
